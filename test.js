@@ -4,4 +4,4 @@ window.console.log('hello world');
 // cool new comment
 
 // new wicked cool enhancement
-window.console.log('blah');
+window.console.log('blah dave blah');
