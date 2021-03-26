@@ -5,3 +5,5 @@ window.console.log('hello world');
 
 // new wicked cool enhancement
 window.console.log('blah');
+
+window.console.log('yo');
